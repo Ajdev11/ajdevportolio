@@ -247,12 +247,12 @@ header{
   font-weight: 700;
   margin-bottom: 15px;
 }
-.services_box-p{
+/* .services_box-p{
   font-size: 18px;
   line-height: 28px;
   color: #000;
   font-family: 'lato', sans-serif;
-}
+} */
 /* Footer */
 .footer{
   padding: 10px 0;

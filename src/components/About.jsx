@@ -4,7 +4,7 @@ import React from "react";
 function About(){
     return(
         <div className="about">
-            <div className="container">
+            <div id="About" className="container">
                 <div className="common">
                     <h1 className="about-title">About me</h1>
                     <div className="underline-border"></div>
