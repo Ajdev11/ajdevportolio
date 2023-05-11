@@ -1,33 +1,33 @@
 const data = [
     {
         id: 1,
-        cover: "./image/portfolio1.png",
+        cover: "./image/four.jpg",
         title: "Application Development",
-        Category: "Products",
+        category: "Products",
     },
     {
         id: 2,
-        cover: "./image/portfolio2.png",
+        cover: "./image/four.jpg",
         title: "Brand Identity",
-        Category: "Services",
+        category: "Services",
     },
     {
         id: 3,
-        cover: "./image/portfolio3.png",
+        cover: "./image/four.jpg",
         title: "Mobile Development",
-        Category: "Products",
+        category: "Mobile",
     },
     {
         id: 4,
-        cover: "./image/portfolio4.png",
+        cover: "./image/four.jpg",
         title: "Business Development",
-        Category: "PBrand Identity",
+        category: "Brand Identity",
     },
     {
         id: 5,
-        cover: "./image/portfolio5.png",
+        cover: "./image/four.jpg",
         title: "Real estate Projects",
-        Category: "Web Applications",
+        category: "Web Applications",
     },
 ]
 

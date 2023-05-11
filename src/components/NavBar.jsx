@@ -9,7 +9,7 @@ function NavBar(){
                 <div className="navbar_container">
                     <ul className="navbar_left">
                         <div className="navbar_left-logo">
-                            <img src="" alt="" />
+                            <img src="./image/" alt="" />
                         </div>
                     </ul>
                     {state ? (
