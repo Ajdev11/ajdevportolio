@@ -36,12 +36,13 @@ h4{
   justify-content: space-evenly;
   align-items: center;
 }
-/* .justifyCenter{
+.justifyCenter{
+  align-items: center;
   justify-content: center;
-} */
+}
 .row{
   display: flex;
-  justify-content: center;
+  /* justify-content: center; */
   width: 100%;
   font-size: 30px;
   flex-wrap: wrap;

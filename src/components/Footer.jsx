@@ -9,7 +9,7 @@ function Footer(){
         <div className="footer">
             <div className="container">
                 <div className="footerSection">
-                  <div className="row justifyContent">
+                  <div className="row justifyCenter">
                     <div className="footer-content">
                         <div className="footer-section-logo">
                             <img src="" alt="" />
