@@ -26,9 +26,8 @@ function Portfolio(){
                     <li className="active" onClick={()=>setItem(data)}>All</li>
                     <li onClick={()=>filterItem("Products")}>Products</li>
                     <li onClick={()=>filterItem("Services")}>Services</li>
-                    <li onClick={()=>filterItem("Mobile")}>Mobile </li>
-                    <li onClick={()=>filterItem("Brand Identity")}>Brand Identity</li>
-                    <li onClick={()=>filterItem("Web Applications")}>Web Applications</li>
+                    <li onClick={()=>filterItem("Brand Identity")}>SEO</li>
+                    <li onClick={()=>filterItem("Web Applications")}>Apps</li>
                 </ul>
             </div>
             <div className="content grid mtop">

@@ -12,7 +12,7 @@ function About(){
                 <div className="row h-650 alignCenter">
                     <div className="col-6">
                         <div className="about_img">
-                            <img src="./image/four.jpg" alt="" />
+                            <img src="./image/webdev.jpg" alt="" />
                         </div>
                     </div>
                     <div className="col-6">
